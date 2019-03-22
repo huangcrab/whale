@@ -31,7 +31,8 @@
     "express": "^4.16.4",
     "init-package-json": "^1.10.3",
     "react": "^16.8.4",
-    "react-dom": "^16.8.4"
+    "react-dom": "^16.8.4",
+    "react-router-dom": "^5.0.0"
   },
   "devDependencies": {
     "hackeryou-fullstack-react-scripts": "2.3.0",
