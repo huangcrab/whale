@@ -33,7 +33,7 @@
     "gravatar": "^1.8.0",
     "init-package-json": "^1.10.3",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.4.22",
+    "mongoose": "^5.7.5",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-router-dom": "^5.0.0",
